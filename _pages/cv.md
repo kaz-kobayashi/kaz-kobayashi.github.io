@@ -11,7 +11,7 @@ header:
 
 Kazuhiro KOBAYASHI, 小林 和博
 
-![]("/assets/images/kk2.png")
+![エビフライトライアングル](/assets/images/kk2.png "サンプル")
 
 Doctor of Science, Mathematical Optimization
 
