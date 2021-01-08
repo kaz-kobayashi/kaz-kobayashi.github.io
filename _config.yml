@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Kazuhiro Kobayashi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kk.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doctor of Science"
   location         : "Japan"
   email            :
