@@ -1,7 +1,8 @@
 ---
 layout: splash
+title: Teaching
 permalink: /teaching/
-author_profile: false
+author_profile: true
 read_time: false
 header:
     overlay_image: /assets/images/zuse.jpg
