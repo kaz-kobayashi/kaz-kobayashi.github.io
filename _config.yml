@@ -290,3 +290,6 @@ defaults:
       comments: 
       share: true
       related: true
+      header:
+        overlay_image: /assets/images/zuse.jpg
+
