@@ -2,6 +2,7 @@
 layout: splash
 permalink: /teaching/
 author_profile: false
+read_time: false
 header:
     overlay_image: /assets/images/zuse.jpg
 
