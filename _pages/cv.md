@@ -11,6 +11,8 @@ header:
 
 Kazuhiro KOBAYASHI, 小林 和博
 
+![]("/assets/images/kk2.png")
+
 Doctor of Science, Mathematical Optimization
 
 Associate Professor, AOYAMA GAKUIN Univeristy
