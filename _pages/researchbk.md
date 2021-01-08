@@ -9,7 +9,9 @@ header:
     overlay_image: /assets/images/zuse.jpg
 
 ---
- 
-- Convex Programming
 
-- Maritime Logistics
+
+
+## Convex Programming
+
+## Maritime Logistics
