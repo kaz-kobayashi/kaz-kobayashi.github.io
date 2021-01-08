@@ -100,6 +100,8 @@ author:
   location         : "Japan"
   email            :
   links:
+    - label: "Aoyama Gakuin Univ. "
+      url: "http://www.aoyama.ac.jp"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
