@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-author_profile: true
+author_profile: false
 #header:
 #  overlay_color: "#5e616c"
 #  overlay_image: /assets/images/mm-home-page-feature.jpg
