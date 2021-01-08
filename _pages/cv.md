@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CV
-permalink: /CV/
+permalink: /cv/
 author_profile: true
 classes: wide
 header:
