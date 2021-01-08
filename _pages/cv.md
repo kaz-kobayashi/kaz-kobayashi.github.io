@@ -1,9 +1,9 @@
 ---
-layout: single
+layout: splash
 title: CV
 permalink: /cv/
 author_profile: true
-classes: wide
+#classes: wide
 header:
     overlay_image: /assets/images/zuse.jpg
 ---
