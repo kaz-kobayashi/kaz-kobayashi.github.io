@@ -1,10 +1,5 @@
 ---
 title: Optimization by Julia, 1 
-layout: collection
-permalink: /JuliaOpt/
-collection: JuliaOpt
-entries_layout: grid
-classes: wide
 ---
 
 
