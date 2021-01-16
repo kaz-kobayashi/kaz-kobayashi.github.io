@@ -294,6 +294,15 @@ defaults:
       related: true
       header:
         overlay_image: /assets/images/zuse.jpg
+  - scope:
+      path: ""
+      type: JuliaOpt
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 collections:
-  - JuMPopt
+  JuliaOpt:
+      output: true
+      permalink: /:collection/:path/
