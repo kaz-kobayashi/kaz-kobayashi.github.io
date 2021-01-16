@@ -295,3 +295,5 @@ defaults:
       header:
         overlay_image: /assets/images/zuse.jpg
 
+collections:
+  - JuMPopt
