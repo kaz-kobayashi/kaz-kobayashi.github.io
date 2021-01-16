@@ -9,4 +9,13 @@ Julia
 
 この書籍で用いられているコードは，上記のwebsiteから入手可能である。テストのために用いられているのは，Julia v1.3.0, JuMP v0.21.2, Optim v0.20.6である。
 
-# 環境構築
+# 実行環境
+
+
+ここでは，Visual Studio Code に 拡張機能としてJulia Languate Supportを導入し，実行する。
+
+
+@Mizuto_Kadowaki,2020年12月15日に更新,「VSCode で Julia-1.4 を動かすまで」
+https://qiita.com/Mizuto_Kadowaki/items/b95e4b7db4a1dfb59863
+
+
