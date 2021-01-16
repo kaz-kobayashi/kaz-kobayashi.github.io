@@ -26,7 +26,12 @@ main:
     url: /cv/
   - title: "Home"
     url: /
+  - title: "Collecionts"
+    url: /collection-archive/
+
+# documentation links
+docs:
   - title: Content
     children:
       - title: "Working with Collections"
-        url: /collections/
+        url: /docs/collections/
