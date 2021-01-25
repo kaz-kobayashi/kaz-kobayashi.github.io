@@ -30,7 +30,8 @@ Juliaでは，最初の要素はv(1)と，添字1でアクセスされる。
 Juliaで数理最適化を扱うためのパッケージとして，JuMPがある。 JuMPを用いると，数理最適化問題を簡単に記述することができる。 JuMPのように，人間が簡単に数理最適化問題を記述することができる言語を，モデリング言語という。
 
 JuliaにJuMPをインストールするには，次のようにする。
-```julia:
+
+```julia
 julia>import Pkg
 julia>Pkg.add("JuMP")
 ```
@@ -45,7 +46,7 @@ $$
 をJuMPを用いて記述すると，
 
 
-```julia:
+```julia
 @variable(m, 0<=x[links]<=1)
 @objective(m,Min,sum(c[(i,j)]*x[(i,j)] for (i,j) in links))
 ```
@@ -54,12 +55,12 @@ $$
 
 JuMPは数理最適化問題を記述するだけである。記述した問題を解くには，別にソルバーが必要である。解きたい問題のクラスに対応したソルバーを，Juliaにインストールする必要がある。ここでは，混合整数計画問題を解くためのソルバーとして，Cbcをインストールする。
 
-```julia:
+```julia
 import Pkg
 Pkg.add("Cbc")
 ```
 
-```julia:
+```julia
 using JuMP
 using Cbc
 ```
@@ -68,11 +69,11 @@ using Cbc
 最適化問題を定義するには，`Model()`を用いてモデルを定める。
 その際に，用いるソルバーを引数に指定することができる。
 
-```julia:
+```julia
 julia>model = Model(Cbc.Optimizer)
 ```
 これを実行すると，次のように表示される。
-```julia:
+```julia
 A JuMP Model
 Feasibility problem with:
 Variables: 0
