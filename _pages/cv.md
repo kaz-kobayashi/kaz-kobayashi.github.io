@@ -52,6 +52,7 @@ Associate Professor, AOYAMA GAKUIN Univeristy
   - （NEDOの研究プロジェクトによる雇用），物流研究センター
 
 #### 非常勤講師
+- - 東京大学工学部都市工学科
 - 2019年9月（集中講義） 九州大学数理学研究院
 - 2019年4月-2019年8月 東京理科大学理工学部経営工学科　経営工学実験C
 - 2013年4月-2014年3月 中央大学理工学部 兼任講師「OR第2」
@@ -62,7 +63,9 @@ Associate Professor, AOYAMA GAKUIN Univeristy
 # 研究業績
 ## 論文
 ### 学術誌論文
-- M.Tanaka and K.Kobayashi, “A Route Generation Algorithm for an Optimal Fuel Routing Problem between Two Single Ports”, International Transactions in Operational Research, Early View .
+- 小林 和博, 山口 晃一郎, “電欠予防配送計画問題に対するメタヒューリスティックとその実験的解析”, 日本応用数理学会論文誌, 33, 11-35, 2023
+-  T. Oyama, N. G. Hall, K. Kobayashi, A Generalized Parametric Divisor Method for Political Apportionment, International Transactions in Operational Research, 28(1), 327-355, 2021
+- M.Tanaka and K.Kobayashi, “A Route Generation Algorithm for an Optimal Fuel Routing Problem between Two Single Ports”, International Transactions in Operational Research, 26(2), 529-550, 2019
 - 小林 和博, 成澤 龍人, 安井 雄一郎, 藤澤 克樹, “辞書式最速流による避難計画作成モデルの実験的解析”, 日本オペレーションズ・リサーチ学会和文論文誌，59, 86-105, 2016
 - K.Kobayashi and M.Kubo,“Optimization of Oil Tanker Schedules by Decomposition, Column Generation, and Time-Space Network Techniques”, Japan Journal of Industrial and Applied Mathematics, 27, 161-173, 2010
 - K.Kobayashi, H.Morohosi and T. Oyama, “Applying Path-Counting Methods for Measuring the Robustness of the Network-Structured System”, International Transactions in Operational Research, 16, 371-389, 2009
@@ -80,6 +83,8 @@ Associate Professor, AOYAMA GAKUIN Univeristy
 - M.Yamashita, K.Fujisawa, K.Nakata, M.Fukuda, K.Kobayashi and K.Goto, “A High-Performance Software Package for Semidefinite Programs : SDPA 7”, Research Report on Mathematical and Computing Sciences B-460，Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, 2010
 - K.Fujisawa, M.Fukuda, K.Kobayashi, M.Kojima, K.Nakata and M.Nakata, “SDPA(SemiDefinite Programming Algorithm) User’s Manual – Version 7.0.5”, Research Report on Mathematical and Computing Sciences B-448, Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, 2008
 ### 著書，訳書
+- 小林和博，『Juliaによる数理最適化』，コロナ社，2023年
+- 小林和博，第７章，『選挙・投票・公共選択の数理』(シリーズ応用数理 第7巻) ，2022年
 - 小林和博，『最適化問題入門 - 錐最適化・整数最適化・ネットワークモデルの組合せによる』，近代科学社，2020年
 - 久保幹雄，小林和博，斉藤努，並木誠，橋本英樹，『Python言語によるビジネスアナリティクス-実務家のための最適化・統計解析・機械学習-』，近代科学社，2016年
 - 小林和博, “第6章 人道支援サプライチェーンにおける数理モデルとその既存研究”，『サプライチェーンリスク管理と人道支援ロジスティクス』久保幹雄，松川弘明（編），近代科学社，2015年．
