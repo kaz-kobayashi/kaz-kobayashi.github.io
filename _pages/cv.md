@@ -164,7 +164,7 @@ K.Kobayashi, Sparsity Exploitation in Primal-Dual Interior-Point Methods for Con
 
 ## スキル
 - 言語: 日本語（母国語），英語
-- 計算機ソフトウェア：C, C++, Python, TeX, MATLAB，Office
+- 計算機ソフトウェア：C, C++, Python, TeX, MATLAB, Office, Julia, QGIS, ArcGIS 
 - 計算機OS：Mac OS X, Linux, Windows, AIX, OS/390
 
 ## 所属学会
