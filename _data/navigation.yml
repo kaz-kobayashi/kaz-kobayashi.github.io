@@ -18,14 +18,14 @@ main:
   #   url: /sitemap/
   #- title: "About"
   #  url: /about
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
   - title: "Blog"
     url: /year-archive/
   - title: "CV"
     url: /cv/
-  - title: "Home"
-    url: /
   - title: "Collections"
     url: /collection-archive/
 
