@@ -10,8 +10,6 @@ main:
   #   url: /categories/
   # - title: "Tags"
   #   url: /tags/
-  - title: "Teaching"
-    url: /teaching/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -22,6 +20,8 @@ main:
     url: /
   - title: "Research"
     url: /research/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Blog"
     url: /year-archive/
   - title: "CV"
