@@ -43,7 +43,8 @@ excerpt: >
 博士（理学）
 青山学院大学理工学部経営システム工学科准教授
 
-{% include feature_row %}
+
+小林和博，[Juliaによる数理最適化， コロナ社， 2023年](https://www.coronasha.co.jp/np/isbn/9784339029345/)
 
 
 小林和博，[錐最適化・整数最適化・ネットワークモデルの組合せによる 最適化問題入門，Pythonによる問題解決シリーズ2，近代科学社，2020年．](https://www.kindaikagaku.co.jp/information/kd0614.htm)
