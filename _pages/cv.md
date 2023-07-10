@@ -63,16 +63,17 @@ Associate Professor, AOYAMA GAKUIN Univeristy
 # 研究業績
 ## 論文
 ### 学術誌論文
-- 小林 和博, 山口 晃一郎, “電欠予防配送計画問題に対するメタヒューリスティックとその実験的解析”, 日本応用数理学会論文誌, 33, 11-35, 2023
--  T. Oyama, N. G. Hall, K. Kobayashi, A Generalized Parametric Divisor Method for Political Apportionment, International Transactions in Operational Research, 28(1), 327-355, 2021
-- M.Tanaka and K.Kobayashi, “A Route Generation Algorithm for an Optimal Fuel Routing Problem between Two Single Ports”, International Transactions in Operational Research, 26(2), 529-550, 2019
-- 小林 和博, 成澤 龍人, 安井 雄一郎, 藤澤 克樹, “辞書式最速流による避難計画作成モデルの実験的解析”, 日本オペレーションズ・リサーチ学会和文論文誌，59, 86-105, 2016
-- K.Kobayashi and M.Kubo,“Optimization of Oil Tanker Schedules by Decomposition, Column Generation, and Time-Space Network Techniques”, Japan Journal of Industrial and Applied Mathematics, 27, 161-173, 2010
-- K.Kobayashi, H.Morohosi and T. Oyama, “Applying Path-Counting Methods for Measuring the Robustness of the Network-Structured System”, International Transactions in Operational Research, 16, 371-389, 2009
-- K.Kobayashi, S.Kim and M.Kojima, “Sparse Second Order Cone Programming Formulations for Convex Optimization Problems”,Journal of the Operations Research Society of Japan, 51, 241-264, 2008
-- K.Kobayashi, S.Kim and M.Kojima, “Correlative Sparsity in Primal-Dual Interior-Point Methods for LP, SDP and SOCP”, Applied Mathematics & Optimization, 58, 69-88, 2008
-- K.Kobayashi, K.Nakata and M.Kojima, “A Conversion of an SDP Having Free Variables into the Standard Form SDP”, Computational Optimization and Applications, 36, 289-307, 2007
-会議論文（査読付き）
+- 小林 和博, 山口 晃一郎, “電欠予防配送計画問題に対するメタヒューリスティックとその実験的解析”, 日本応用数理学会論文誌, 33, 11-35, 2023 [詳細](https://www.jstage.jst.go.jp/article/jsiamt/33/1/33_11/_article/-char/ja/)
+-  T. Oyama, N. G. Hall, K. Kobayashi, A Generalized Parametric Divisor Method for Political Apportionment, International Transactions in Operational Research, 28(1), 327-355, 2021 [詳細](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12622#pane-pcw-references)
+- M.Tanaka and K.Kobayashi, “A Route Generation Algorithm for an Optimal Fuel Routing Problem between Two Single Ports”, International Transactions in Operational Research, 26(2), 529-550, 2019 [詳細](https://onlinelibrary.wiley.com/doi/full/10.1111/itor.12410)
+- 小林 和博, 成澤 龍人, 安井 雄一郎, 藤澤 克樹, “辞書式最速流による避難計画作成モデルの実験的解析”, 日本オペレーションズ・リサーチ学会和文論文誌，59, 86-105, 2016 [詳細](https://www.jstage.jst.go.jp/article/torsj/59/0/59_86/_article/-char/ja)
+- K.Kobayashi and M.Kubo,“Optimization of Oil Tanker Schedules by Decomposition, Column Generation, and Time-Space Network Techniques”, Japan Journal of Industrial and Applied Mathematics, 27, 161-173, 2010 [詳細](https://link.springer.com/article/10.1007/s13160-010-0008-7)
+- K.Kobayashi, H.Morohosi and T. Oyama, “Applying Path-Counting Methods for Measuring the Robustness of the Network-Structured System”, International Transactions in Operational Research, 16, 371-389, 2009 [詳細](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1475-3995.2008.00688.x)
+- K.Kobayashi, S.Kim and M.Kojima, “Sparse Second Order Cone Programming Formulations for Convex Optimization Problems”,Journal of the Operations Research Society of Japan, 51, 241-264, 2008 [詳細](https://cir.nii.ac.jp/crid/1390282679085911296)
+- K.Kobayashi, S.Kim and M.Kojima, “Correlative Sparsity in Primal-Dual Interior-Point Methods for LP, SDP and SOCP”, Applied Mathematics & Optimization, 58, 69-88, 2008 [詳細](https://link.springer.com/article/10.1007/s00245-007-9030-9)
+- K.Kobayashi, K.Nakata and M.Kojima, “A Conversion of an SDP Having Free Variables into the Standard Form SDP”, Computational Optimization and Applications, 36, 289-307, 2007 [詳細](https://link.springer.com/article/10.1007/s10589-006-9002-z)
+  
+### 会議論文（査読付き）
 - M.Tanaka and K.Kobayashi, “Perspective Reformulation for Optimal Fuel Routing Problem”, Proceedings of the International Symposium on Scheduling 2015, 89-94, 神戸, 2015年7月
 - K.Kobayashi, “A Linear Approximation of the Value Function of an Approximate Dynamic Programming Approach for the Ship Scheduling Problem”,Learning and Intelligent OptimizatioN (LION4), Lecture Notes in Computer Science (LNCS) 6073, 184-187, C. Blum and R. Battiti (eds.), Springer, ベニス，イタリア，2010年1月
 - T.Seta, K.Kobayashi, and M.Kubo, “Ship Scheduling in the Steel Industry – a Rolling Horizon and Approximate Dynamic Programming Approach -“, Proceedings of the International Symposium on Scheduling 2009, 18-21, 名古屋，2009年7月
@@ -83,14 +84,14 @@ Associate Professor, AOYAMA GAKUIN Univeristy
 - M.Yamashita, K.Fujisawa, K.Nakata, M.Fukuda, K.Kobayashi and K.Goto, “A High-Performance Software Package for Semidefinite Programs : SDPA 7”, Research Report on Mathematical and Computing Sciences B-460，Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, 2010
 - K.Fujisawa, M.Fukuda, K.Kobayashi, M.Kojima, K.Nakata and M.Nakata, “SDPA(SemiDefinite Programming Algorithm) User’s Manual – Version 7.0.5”, Research Report on Mathematical and Computing Sciences B-448, Department of Mathematical and Computing Sciences, Tokyo Institute of Technology, 2008
 ### 著書，訳書
-- 小林和博，『Juliaによる数理最適化』，コロナ社，2023年
-- 小林和博，第７章，『選挙・投票・公共選択の数理』(シリーズ応用数理 第7巻) ，2022年
-- 小林和博，『最適化問題入門 - 錐最適化・整数最適化・ネットワークモデルの組合せによる』，近代科学社，2020年
-- 久保幹雄，小林和博，斉藤努，並木誠，橋本英樹，『Python言語によるビジネスアナリティクス-実務家のための最適化・統計解析・機械学習-』，近代科学社，2016年
-- 小林和博, “第6章 人道支援サプライチェーンにおける数理モデルとその既存研究”，『サプライチェーンリスク管理と人道支援ロジスティクス』久保幹雄，松川弘明（編），近代科学社，2015年．
-- 和田忠，小林和博，『航海応用力学の基礎（3訂版）』，成山堂書店，2015年3月
-- M.Yamashita, K.Fujisawa, M.Fukuda, K.Kobayashi, K.Nakata and M.Nakata, “Latest Developments in the SDPA Family for Solving Large-Scale SDPs”,『Handbook on Semidefinite, Cone and Polynomial Optimization : Theory, Algorithms, Software and Applications』, Miguel F. Anjos and Jean B. Lasserre (eds.), Springer, 2011
-- ジョン・V・グッターグ，『Python言語によるプログラミングイントロダクション：世界標準MIT教科書』，麻生敏正，木村泰紀，小林和博，関口良行，並木誠，藤原洋志（翻訳），久保幹雄（監訳），近代科学社，2014年12月
+- 小林和博，『Juliaによる数理最適化』，コロナ社，2023年 [詳細](https://www.coronasha.co.jp/np/isbn/9784339029345/)
+- 小林和博，第７章，『選挙・投票・公共選択の数理』(シリーズ応用数理 第7巻) ， 2022年 [詳細](https://www.kyoritsu-pub.co.jp/book/b10011785.html)
+- 小林和博，『最適化問題入門 - 錐最適化・整数最適化・ネットワークモデルの組合せによる』，近代科学社，2020年 [詳細](https://www.kindaikagaku.co.jp/book_list/detail/9784764906143/)
+- 久保幹雄，小林和博，斉藤努，並木誠，橋本英樹，『Python言語によるビジネスアナリティクス-実務家のための最適化・統計解析・機械学習-』，近代科学社，2016年 [詳細](https://www.kindaikagaku.co.jp/book_list/detail/9784764905160/)
+- 小林和博, “第6章 人道支援サプライチェーンにおける数理モデルとその既存研究”，『サプライチェーンリスク管理と人道支援ロジスティクス』久保幹雄，松川弘明（編），近代科学社，2015年． [詳細](https://www.kindaikagaku.co.jp/book_list/detail/9784764904910/)
+- 和田忠，小林和博，『航海応用力学の基礎（3訂版）』，成山堂書店，2015年3月 [詳細](https://www.seizando.co.jp/book/3766/)
+- M.Yamashita, K.Fujisawa, M.Fukuda, K.Kobayashi, K.Nakata and M.Nakata, “Latest Developments in the SDPA Family for Solving Large-Scale SDPs”,『Handbook on Semidefinite, Cone and Polynomial Optimization : Theory, Algorithms, Software and Applications』, Miguel F. Anjos and Jean B. Lasserre (eds.), Springer, 2011 [詳細](https://link.springer.com/book/10.1007/978-1-4614-0769-0)
+- ジョン・V・グッターグ，『Python言語によるプログラミングイントロダクション：世界標準MIT教科書』，麻生敏正，木村泰紀，小林和博，関口良行，並木誠，藤原洋志（翻訳），久保幹雄（監訳），近代科学社，2014年12月[３訂版 詳細](https://www.kindaikagaku.co.jp/book_list/detail/9784764906464/)
 ### 研究報告等
 - 小林和博，“輸送システムに関する最適化技術”，海上技術安全研究所報告，14(4)，45-62，2015
 - 間島隆博，小坂浩之，小林和博，“国際海上コンテナ輸送のネットワーク分析と流動モデルの開発”，海上技術安全研究所報告，14(4)，17-26，2015
