@@ -43,6 +43,13 @@ excerpt: >
 博士（理学）
 青山学院大学理工学部経営システム工学科准教授
 
+小林和博，[最適化のための強化学習， 近代科学社， 2024年]([https://www.coronasha.co.jp/np/isbn/9784339029345/](https://www.kindaikagaku.co.jp/book_list/detail/9784764907102/))
+>【読書対象】
+>
+>
+>【書籍の特徴】
+>
+
 
 小林和博，[Juliaによる数理最適化， コロナ社， 2023年](https://www.coronasha.co.jp/np/isbn/9784339029345/)
 >【読書対象】
